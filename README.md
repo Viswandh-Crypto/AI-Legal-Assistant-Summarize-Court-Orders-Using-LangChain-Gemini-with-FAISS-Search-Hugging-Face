@@ -30,13 +30,13 @@ This project leverages powerful AI models and vector search technology to analyz
 1. **Load Court Order PDF**  
          Downloads a court order from a URL and splits the content into pages.
       
-      2. **Embed & Index**  
+2. **Embed & Index**  
          Uses HuggingFace embeddings to convert text into vector format and indexes them using FAISS for fast retrieval.
       
-      3. **Retrieval-Augmented Generation (RAG)**  
+3. **Retrieval-Augmented Generation (RAG)**  
          Combines the FAISS retriever with a prompt template and Google Gemini model to generate concise legal summaries.
       
-      4. **Query Execution**  
+4. **Query Execution**  
       Asks the model to extract and present key legal information, including case title, petitioner, and defendant.
 
 ---
