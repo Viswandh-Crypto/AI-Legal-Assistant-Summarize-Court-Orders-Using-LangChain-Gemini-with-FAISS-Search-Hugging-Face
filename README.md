@@ -27,7 +27,7 @@ This project leverages powerful AI models and vector search technology to analyz
 
 ## 📄 How It Works
 
-      1. **Load Court Order PDF**  
+1. **Load Court Order PDF**  
          Downloads a court order from a URL and splits the content into pages.
       
       2. **Embed & Index**  
