@@ -60,46 +60,46 @@ This project leverages powerful AI models and vector search technology to analyz
       
 ---
 
-### 📝 Key Points from the Order
+      ### 📝 Key Points from the Order
 
-- **Scheme Sanctioned:**  
-  The Scheme of Amalgamation of the First, Second, Third, and Fourth Petitioner Companies with the Fifth Petitioner Company is sanctioned.
-
-- **Appointed Date:**  
-  The Appointed Date of the Scheme is 1st April 2022.
-
-- **Binding Nature:**  
-  The Scheme is binding on all Petitioner Companies, their shareholders, secured creditors, unsecured creditors/trade creditors, employees, and other stakeholders.
-
-- **Listing Status:**  
-  - Equity shares of the Fifth Petitioner Company are listed on BSE Limited and National Stock Exchange of India Limited.  
-  - Equity shares of the First to Fourth Petitioner Companies are not listed on any Indian stock exchange.
-
-- **Subsidiary Status:**  
-  The First, Second, Third, and Fourth Petitioner Companies are wholly-owned subsidiaries of the Fifth Petitioner Company.
-
-- **Central Government Observations:**  
-  - The Regional Director (Western Region) filed a report.  
-  - Petitioner Companies submitted clarifications and undertakings.  
-  - Tribunal accepted them; the Director had no objections.
-
-- **Official Liquidator Observations:**  
-  - The Official Liquidator filed a report with observations.  
-  - Clarifications and undertakings were provided by the Petitioner Companies.
-
-- **Share Capital Cancellation:**  
-  Upon the Scheme becoming effective, the entire share capital of the First, Second, Third, and Fourth Petitioner Companies shall be cancelled and extinguished.
-
-- **Statutory Compliance:**  
-  All required statutory compliances have been fulfilled.
-
-- **Filing Requirements:**  
-  Petitioner Companies must file a certified copy of the Order and the Scheme with the Registrar of Companies in e-form INC-28 within 30 days (or extended with additional fees).
-
-- **Benefits of the Scheme:**  
-  - Eliminates administrative redundancy and record-keeping  
-  - Reduces overall expenditure  
-  - Enhances internal controls and operational efficiency  
-  - Improves agility in responding to market changes across IT, HR, finance, legal, and management functions
+      - **Scheme Sanctioned:**  
+        The Scheme of Amalgamation of the First, Second, Third, and Fourth Petitioner Companies with the Fifth Petitioner Company is sanctioned.
+      
+      - **Appointed Date:**  
+        The Appointed Date of the Scheme is 1st April 2022.
+      
+      - **Binding Nature:**  
+        The Scheme is binding on all Petitioner Companies, their shareholders, secured creditors, unsecured creditors/trade creditors, employees, and other stakeholders.
+      
+      - **Listing Status:**  
+        - Equity shares of the Fifth Petitioner Company are listed on BSE Limited and National Stock Exchange of India Limited.  
+        - Equity shares of the First to Fourth Petitioner Companies are not listed on any Indian stock exchange.
+      
+      - **Subsidiary Status:**  
+        The First, Second, Third, and Fourth Petitioner Companies are wholly-owned subsidiaries of the Fifth Petitioner Company.
+      
+      - **Central Government Observations:**  
+        - The Regional Director (Western Region) filed a report.  
+        - Petitioner Companies submitted clarifications and undertakings.  
+        - Tribunal accepted them; the Director had no objections.
+      
+      - **Official Liquidator Observations:**  
+        - The Official Liquidator filed a report with observations.  
+        - Clarifications and undertakings were provided by the Petitioner Companies.
+      
+      - **Share Capital Cancellation:**  
+        Upon the Scheme becoming effective, the entire share capital of the First, Second, Third, and Fourth Petitioner Companies shall be cancelled and extinguished.
+      
+      - **Statutory Compliance:**  
+        All required statutory compliances have been fulfilled.
+      
+      - **Filing Requirements:**  
+        Petitioner Companies must file a certified copy of the Order and the Scheme with the Registrar of Companies in e-form INC-28 within 30 days (or extended with additional fees).
+      
+      - **Benefits of the Scheme:**  
+        - Eliminates administrative redundancy and record-keeping  
+        - Reduces overall expenditure  
+        - Enhances internal controls and operational efficiency  
+        - Improves agility in responding to market changes across IT, HR, finance, legal, and management functions
 
 ---
