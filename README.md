@@ -1,0 +1,1 @@
+# AI-Legal-Assistant-Summarize-Court-Orders-Using-LangChain-Gemini-with-FAISS-Search-Hugging-Face
