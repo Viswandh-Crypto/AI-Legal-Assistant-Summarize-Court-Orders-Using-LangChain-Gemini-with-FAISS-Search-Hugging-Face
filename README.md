@@ -6,58 +6,58 @@ This project leverages powerful AI models and vector search technology to analyz
 
 ## 🚀 Features
 
-- 🔍 Load and parse legal PDF files from a public URL
-- 🧩 Text splitting and semantic embedding using HuggingFace models
-- 🧠 Vector storage and retrieval using FAISS
-- 🤖 AI summarization and key point extraction using Google Gemini (via LangChain)
-- ⚖️ Tailored for legal use-cases like summarizing court orders
+      - 🔍 Load and parse legal PDF files from a public URL
+      - 🧩 Text splitting and semantic embedding using HuggingFace models
+      - 🧠 Vector storage and retrieval using FAISS
+      - 🤖 AI summarization and key point extraction using Google Gemini (via LangChain)
+      - ⚖️ Tailored for legal use-cases like summarizing court orders
 
 ---
 
 ## 🛠️ Technologies Used
 
-- [LangChain](https://www.langchain.com/)
-- [Google Gemini (via LangChain)](https://python.langchain.com/docs/integrations/chat/google_generative_ai)
-- [HuggingFace Sentence Transformers](https://www.sbert.net/)
-- [FAISS Vector Database](https://github.com/facebookresearch/faiss)
-- [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
-- [dotenv](https://pypi.org/project/python-dotenv/)
+      - [LangChain](https://www.langchain.com/)
+      - [Google Gemini (via LangChain)](https://python.langchain.com/docs/integrations/chat/google_generative_ai)
+      - [HuggingFace Sentence Transformers](https://www.sbert.net/)
+      - [FAISS Vector Database](https://github.com/facebookresearch/faiss)
+      - [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
+      - [dotenv](https://pypi.org/project/python-dotenv/)
 
 ---
 
 ## 📄 How It Works
 
-1. **Load Court Order PDF**  
-   Downloads a court order from a URL and splits the content into pages.
-
-2. **Embed & Index**  
-   Uses HuggingFace embeddings to convert text into vector format and indexes them using FAISS for fast retrieval.
-
-3. **Retrieval-Augmented Generation (RAG)**  
-   Combines the FAISS retriever with a prompt template and Google Gemini model to generate concise legal summaries.
-
-4. **Query Execution**  
-   Asks the model to extract and present key legal information, including case title, petitioner, and defendant.
+      1. **Load Court Order PDF**  
+         Downloads a court order from a URL and splits the content into pages.
+      
+      2. **Embed & Index**  
+         Uses HuggingFace embeddings to convert text into vector format and indexes them using FAISS for fast retrieval.
+      
+      3. **Retrieval-Augmented Generation (RAG)**  
+         Combines the FAISS retriever with a prompt template and Google Gemini model to generate concise legal summaries.
+      
+      4. **Query Execution**  
+      Asks the model to extract and present key legal information, including case title, petitioner, and defendant.
 
 ---
 
 ## 🧑‍⚖️ Example Output
 
-📄 22 pages loaded.
-
-Here are the key points from the order:
-
-**Case Title:**  
-C.P. (CAA) / 20 / MB / 2023 IN C.A. (CAA) / 256 / MB / 2022
-
-**Petitioner(s):**  
-First Petitioner Company, Second Petitioner Company, Third Petitioner Company, Fourth Petitioner Company, and Fifth Petitioner Company.
-
-**Defendant(s):**  
-Not explicitly mentioned, but implied parties include:  
-- Regional Director, Western Region (representing the Central Government)  
-- Official Liquidator, High Court, Bombay
-
+      📄 22 pages loaded.
+      
+      Here are the key points from the order:
+      
+      **Case Title:**  
+      C.P. (CAA) / 20 / MB / 2023 IN C.A. (CAA) / 256 / MB / 2022
+      
+      **Petitioner(s):**  
+      First Petitioner Company, Second Petitioner Company, Third Petitioner Company, Fourth Petitioner Company, and Fifth Petitioner Company.
+      
+      **Defendant(s):**  
+      Not explicitly mentioned, but implied parties include:  
+      - Regional Director, Western Region (representing the Central Government)  
+      - Official Liquidator, High Court, Bombay
+      
 ---
 
 ### 📝 Key Points from the Order
