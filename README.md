@@ -17,11 +17,11 @@ This project leverages powerful AI models and vector search technology to analyz
 ## 🛠️ Technologies Used
 
  - [LangChain](https://www.langchain.com/)
-      - [Google Gemini (via LangChain)](https://python.langchain.com/docs/integrations/chat/google_generative_ai)
-      - [HuggingFace Sentence Transformers](https://www.sbert.net/)
-      - [FAISS Vector Database](https://github.com/facebookresearch/faiss)
-      - [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
-      - [dotenv](https://pypi.org/project/python-dotenv/)
+ - [Google Gemini (via LangChain)](https://python.langchain.com/docs/integrations/chat/google_generative_ai)
+ - [HuggingFace Sentence Transformers](https://www.sbert.net/)
+ - [FAISS Vector Database](https://github.com/facebookresearch/faiss)
+ - [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/en/latest/)
+ - [dotenv](https://pypi.org/project/python-dotenv/)
 
 ---
 
